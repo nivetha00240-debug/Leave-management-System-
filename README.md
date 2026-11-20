@@ -1,1 +1,1 @@
-https://leave-management-o0xc.onrender.com/
+https://leave-management-chi-one.vercel.app/
